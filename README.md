@@ -48,7 +48,14 @@ Privately, a lover of dogs, sunshine and delicious food.
 
 ### Examples of test scenarios:
 
-### Examples of bug reports:
+### Examples of bug reports (added in Jira):
+**In Polish:**
+
+<img width="300" alt="image" src="https://github.com/KlaudiaZietarska/portfolio/assets/135587581/04cdf796-f619-4c11-9728-7e393f6d5bb2">
+
+**In English:**
+
+<img width="300" alt="image" src="https://github.com/KlaudiaZietarska/portfolio/assets/135587581/a49b66fe-f310-4617-a5a8-0e24303c7808">
 
 
 
