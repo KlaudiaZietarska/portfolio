@@ -44,18 +44,18 @@ Privately, a lover of dogs, sunshine and delicious food.
 * [zacznijtestowac.pl](http://zacznijtestowac.pl/)
 * [wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/)
 
-### Examples of test cases:
+## My test documentation (made in Jira):
 
-### Examples of test scenarios:
+### Test cases:
+* [Registration of a new user - allegro.pl](https://docs.google.com/document/d/1OI-smFtcehv5dj3onsV1ZZfpNBLF7VnHSYIJ64Krg-o/edit?usp=sharing)
 
-### Examples of bug reports (added in Jira):
-**In Polish:**
+### Bug reports:
+* [No possibility to open the product cart - skleptest.pl](https://docs.google.com/document/d/1UZ7b8g3_UBPLxydmTy-X9XghYnOG1SEKL7BsLpQ8qcg/edit?usp=sharing)
+* [A literal error in the name of one of the categories - skleptest.pl](https://docs.google.com/document/d/17ujPNC0R7IFDO1T8K2N3n9Oo3IWQ3PZmEdAW4mO_XtI/edit?usp=sharing)
 
-<img width="300" alt="image" src="https://github.com/KlaudiaZietarska/portfolio/assets/135587581/04cdf796-f619-4c11-9728-7e393f6d5bb2">
+### Test scenarios:
 
-**In English:**
 
-<img width="300" alt="image" src="https://github.com/KlaudiaZietarska/portfolio/assets/135587581/a49b66fe-f310-4617-a5a8-0e24303c7808">
 
 
 
